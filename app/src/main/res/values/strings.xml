@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Stundenzettel</string>
+    <string name="neue_schicht">Schicht beginnen</string>
+    <string name="alle_schichten">Alle Schichten</string>
+    <string name="einstellungen">Einstellungen</string>
+
+    <string name="confirmationMessage">Willst du folgende Informationen absenden?</string>
+    <string name="confirm">Senden</string>
+    <string name="cancel">Nein</string>
+
+    <string name="fahrt_beenden">Fahrt beenden</string>
+    <string name="fahrt_beginnen">Fahrt beginnen</string>
+</resources>
